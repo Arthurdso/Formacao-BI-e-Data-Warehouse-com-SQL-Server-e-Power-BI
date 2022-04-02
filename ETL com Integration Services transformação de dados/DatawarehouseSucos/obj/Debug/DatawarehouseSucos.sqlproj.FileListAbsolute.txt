@@ -1,0 +1,15 @@
+C:\Users\arthu\Desktop\Projetos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dacpac
+C:\Users\arthu\Desktop\Projetos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dll
+C:\Users\arthu\Desktop\Projetos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.pdb
+C:\Users\arthu\Desktop\Projetos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.sqlproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\Projetos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.dll
+C:\Users\arthu\Desktop\Projetos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.pdb
+C:\Users\arthu\Desktop\ETL com Integration Services transformação de dados\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dacpac
+C:\Users\arthu\Desktop\ETL com Integration Services transformação de dados\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dll
+C:\Users\arthu\Desktop\ETL com Integration Services transformação de dados\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.pdb
+C:\Users\arthu\Desktop\ETL com Integration Services transformação de dados\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.dll
+C:\Users\arthu\Desktop\ETL com Integration Services transformação de dados\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.pdb
+C:\Users\arthu\Desktop\ETL com Integration Services transformação de dados\DatawarehouseSucos\obj\Debug\Model.xml
+C:\Users\arthu\Desktop\ETL com Integration Services transformação de dados\DatawarehouseSucos\obj\Debug\refactor.xml
+C:\Users\arthu\Desktop\ETL com Integration Services transformação de dados\DatawarehouseSucos\obj\Debug\postdeploy.sql
+C:\Users\arthu\Desktop\ETL com Integration Services transformação de dados\DatawarehouseSucos\obj\Debug\predeploy.sql
